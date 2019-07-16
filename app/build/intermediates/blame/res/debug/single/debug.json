@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alc.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\layout\\activity_alc.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profpic.jpg.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\drawable\\profpic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\e6403649940cf83439c3c303fa89effb\\core-1.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\8e991a80a7c512d32aac390008afb526\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\font_laila_light.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\font\\laila_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\40617b0e6026e4e06c950696baf90aae\\material-1.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\VENOM\\AndroidStudioProjects\\ALC4Phase1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\VENOM\\.gradle\\caches\\transforms-2\\files-2.1\\3782ce24e9cd17a44cf05eaee5d50a9f\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="abt_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="track">Track: Android</string>
+    <string name="Country">Country: Ethiopia</string>
+    <string name="Email">Email: Eyueldaniel0921@gmail.com</string>
+    <string name="Phone">Phone Number: +251921931481</string>
+    <string name="Slack">Slack Username: @joel</string>
+    <string name="Website">Website: http://eyuel.000webhostapp.com</string>
+    <string name="name">Eyuel Daniel</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+
+</resources>
