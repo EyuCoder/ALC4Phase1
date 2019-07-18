@@ -1,4 +1,4 @@
-# ALC4Phase1
+# Project for the ALC #5DaysofCodeChallenge
 ALC 4.0 Phase 1 
 LearningTrack = Android .
  
