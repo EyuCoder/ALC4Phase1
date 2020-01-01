@@ -6,7 +6,7 @@ LearningTrack = Android .
 Your path to become an
 Android Developer
 <p float="left">
-  <img src="ScreenShots/AboutALC.png" width="200" />
-  <img src="ScreenShots/MyProfile.png" width="200" /> 
-  <img src="ScreenShots/HomePage.png" width="200" />
+  <img src="ScreenShots/AboutALC.png" width="250" />
+  <img src="ScreenShots/MyProfile.png" width="250" /> 
+  <img src="ScreenShots/HomePage.png" width="250" />
 </p>
