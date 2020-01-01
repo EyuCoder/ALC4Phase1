@@ -5,6 +5,6 @@ LearningTrack = Android .
 
 Your path to become an
 Android Developer
-![](/ScreenShots/AboutALC.PNG)  
-![](ScreenShots/MyProfile.PNG)
+![](/ScreenShots/AboutALC.PNG),  
+![](ScreenShots/MyProfile.PNG),
 ![](ScreenShots/Homepage.PNG)
